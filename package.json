@@ -16,6 +16,6 @@
   "dependencies": {
     "ical-date-parser": "^4.0.0",
     "moment": "^2.27.0",
-    "rrule": "^2.6.4"
+    "rrule": "^2.6.0"
   }
 }
